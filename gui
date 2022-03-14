@@ -14,5 +14,4 @@ TextColor = Color3.fromRGB(255, 255, 255)
 
 -- first page
 local page = Fri Hub:addPage("AutoFarm")
-local section1 = page:addSection("main")
-section1:addButton("collect Lootbags")
+
